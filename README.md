@@ -20,3 +20,4 @@ Preparing your presentation materials
 
   * a **PDF** of the executive summary (followed by relevant details)
   * a **README.md** that includes all team member full names, a [link](http://url) to the project's main repository, and any information that will help reviewers navigate your files
+4. Initiate a Pull Request to update this repo with your presentation information. This information can be updated as often as you would like, but is **due immediately before your schedule presentation.**
