@@ -11,7 +11,7 @@ Monday, December 8th
   * 12:00 Lab 1st - *Team*: 
   * 12:00 Lab 2nd - *Team*: lateStarter
   * 1:00 Lab 1st - *Team*: Spyro 
-  * 1:00 Lab 2nd - *Team*: 
+  * 1:00 Lab 2nd - *Team*: Avalon
   * 4:00 Lab 1st - *Team*: 
   * 4:00 Lab 2nd - *Team*:
 
