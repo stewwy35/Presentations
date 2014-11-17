@@ -8,7 +8,7 @@ Monday, December 8th
 
   * 11:00 Lecture 1st - *Team*: 
   * 11:00 Lecture 2nd - *Team*: Bustr 
-  * 12:00 Lab 1st - *Team*: 
+  * 12:00 Lab 1st - *Team*: Team Android
   * 12:00 Lab 2nd - *Team*: lateStarter
   * 1:00 Lab 1st - *Team*: Spyro 
   * 1:00 Lab 2nd - *Team*: Avalon
