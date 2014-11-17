@@ -24,6 +24,6 @@ Wednesday, October 10th
   * 12:00 Lab 1st - *Team*: 
   * 12:00 Lab 2nd - *Team*:
   * 1:00 Lab 1st - *Team*: 
-  * 1:00 Lab 2nd - *Team*: 
+  * 1:00 Lab 2nd - *Team*: EggBeater
   * 4:00 Lab 1st - *Team*: 
   * 4:00 Lab 2nd - *Team*:
