@@ -7,7 +7,7 @@ Monday, December 8th
 -------------------
 
   * 11:00 Lecture 1st - *Team*: 
-  * 11:00 Lecture 2nd - *Team*: 
+  * 11:00 Lecture 2nd - *Team*: Bustr 
   * 12:00 Lab 1st - *Team*: 
   * 12:00 Lab 2nd - *Team*:
   * 1:00 Lab 1st - *Team*: 
