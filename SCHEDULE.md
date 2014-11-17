@@ -26,4 +26,4 @@ Wednesday, December 10th
   * 1:00 Lab 1st - *Team*: 
   * 1:00 Lab 2nd - *Team*: 
   * 4:00 Lab 1st - *Team*: 
-  * 4:00 Lab 2nd - *Team*:
+  * 4:00 Lab 2nd - *Team*: outbreak/birdseye
