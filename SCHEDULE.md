@@ -25,5 +25,5 @@ Wednesday, October 10th
   * 12:00 Lab 2nd - *Team*:
   * 1:00 Lab 1st - *Team*: 
   * 1:00 Lab 2nd - *Team*: 
-  * 4:00 Lab 1st - *Team*: 
+  * 4:00 Lab 1st - *Team*: The Engineers (3DEx)
   * 4:00 Lab 2nd - *Team*:
