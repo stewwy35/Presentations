@@ -19,7 +19,7 @@ Monday, December 8th
 Wednesday, December 10th
 -----------------------
 
-  * 11:00 Lecture 1st - *Team*: 
+  * 11:00 Lecture 1st - *Team*: EggBeater
   * 11:00 Lecture 2nd - *Team*: 
   * 12:00 Lab 1st - *Team*: MEANStack
   * 12:00 Lab 2nd - *Team*: quantumNote
