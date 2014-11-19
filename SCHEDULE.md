@@ -13,7 +13,7 @@ Monday, December 8th
   * 1:00 Lab 1st - *Team*: Spyro
   * 1:00 Lab 2nd - *Team*: Avalon
   * 4:00 Lab 1st - *Team*: CheapGasFinder
-  * 4:00 Lab 2nd - *Team*:
+  * 4:00 Lab 2nd - *Team*: Widgets
 
 
 Wednesday, December 10th
