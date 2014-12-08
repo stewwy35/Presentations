@@ -1,9 +1,11 @@
-===Contributors===
-Michael Sawyer
-Michael Tostenson
-Brad Rudolph
-Sterling Baldwin
-Ryan Stevenson
+Contributors
+============
+* Michael Sawyer
+* Michael Tostenson
+* Brad Rudolph
+* Sterling Baldwin
+* Ryan Stevenson
 
-===Bustr===
+Bustr
+=====
 https://github.com/CSUChicoSoftwareEngineering/bustr (Private)
