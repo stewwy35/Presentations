@@ -1,5 +1,5 @@
 ## Javabang
-[Team Members]
+# [Team Members]
 Shelby Martin
 Alen Maragoul
 Patrick Barnum
