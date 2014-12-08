@@ -13,5 +13,5 @@
 ## [Testing]
 * Link - https://github.com/smartin43/javabang-BossyUI/tree/master/test/directives/javabang/%20DOM%20tests
 * Run the javabang-test.html file to observe the testing environment.
-* If using chrome, make sure security is disabled using C:\Users\Alen\AppData\Local\Google\Chrome\Application\chrome.exe --disable-web-security in target under shortcuts under properties for the chrome application
+* If using chrome, make sure security is disabled by adding this to the target --disable-web-security  under shortcuts under properties for the chrome application
 
